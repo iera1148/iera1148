@@ -42,13 +42,6 @@ I enjoy turning everyday friction into clean, working software. Currently comple
   A localized cooking companion designed to reduce food waste and kitchen decision fatigue using leftover-based recipe generation (*Peti Sejuk Surprise*), an XP leveling system, and interactive JavaScript mini-games (*Chef Catch*, *Rasa Memory*, and *Bahan Misteri*).  
   `Python` `Flask` `SQLAlchemy` `OpenAI API` `JavaScript` `SQLite`
 
-* **OrderNow — End-to-End Restaurant Operations System**  
-  A full-stack dining and management platform handling customer orders, staff workflows, automated receipt generation, and daily expense tracking.  
-  `Java` `JSP` `Servlets` `MySQL` `HTML/CSS`
-
-* **MathLetics — Interactive Math Learning Android App**  
-  A gamified mobile application featuring timed math quizzes, user authentication, progress analytics, competitive leaderboards, and an admin management dashboard.  
-  `Java` `Android Studio` `SQLite`
 
 ---
 
