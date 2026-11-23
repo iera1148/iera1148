@@ -38,7 +38,7 @@ I enjoy turning everyday friction into clean, working software. Currently comple
   A mobile-first web app for exactly two people in a long-distance relationship. One invitation pairs the couple, then moods, notes, plans, memories, and manual map pins stay in sync on both phones, in English or Bahasa Malaysia.  
   `React` `TypeScript` `Firebase` `Tailwind CSS` `Leaflet`
 
-* **ChefBot Elite — Gamified Malaysian Culinary AI Assistant**  
+* **[ChefBot Elite](https://github.com/iera1148/ChefBot) — Gamified Malaysian Culinary AI Assistant**  
   A localized cooking companion designed to reduce food waste and kitchen decision fatigue using leftover-based recipe generation (*Peti Sejuk Surprise*), an XP leveling system, and interactive JavaScript mini-games (*Chef Catch*, *Rasa Memory*, and *Bahan Misteri*).  
   `Python` `Flask` `SQLAlchemy` `OpenAI API` `JavaScript` `SQLite`
 
