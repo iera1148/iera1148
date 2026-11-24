@@ -38,6 +38,10 @@ I enjoy turning everyday friction into clean, working software. Currently comple
   A mobile-first web app for exactly two people in a long-distance relationship. One invitation pairs the couple, then moods, notes, plans, memories, and manual map pins stay in sync on both phones, in English or Bahasa Malaysia.  
   `React` `TypeScript` `Firebase` `Tailwind CSS` `Leaflet`
 
+* **[The Mimic](https://github.com/iera1148/the-mimic) — Multiplayer Horror Chat**  
+  A private chat for 2 to 8 people. One player is The Mimic. Survivors finish a short task or vote out the borrowed voice before the clock ends, and friends join with a room code.  
+  `React` `JavaScript` `Vite` `Vercel`
+
 * **[ChefBot Elite](https://github.com/iera1148/ChefBot) — Gamified Malaysian Culinary AI Assistant**  
   A localized cooking companion designed to reduce food waste and kitchen decision fatigue using leftover-based recipe generation (*Peti Sejuk Surprise*), an XP leveling system, and interactive JavaScript mini-games (*Chef Catch*, *Rasa Memory*, and *Bahan Misteri*).  
   `Python` `Flask` `SQLAlchemy` `OpenAI API` `JavaScript` `SQLite`
