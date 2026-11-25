@@ -6,18 +6,6 @@ I enjoy turning everyday friction into clean, working software. Currently comple
 
 ---
 
-### 💼 Internship Availability
-
-📌 **Open for Industrial Training / Internship placements**
-
-| | |
-| :--- | :--- |
-| **Role** | Software Engineering, Full-Stack Development, or AI/Data Intern |
-| **Duration** | 15 March 2027 – 18 June 2027 |
-| **Location** | Johor Bahru (Open to hybrid or remote setups) |
-| **Focus Areas** | Web & Mobile Systems, LLM Integration, Backend Engineering, Databases |
-
----
 
 ### 🛠️ Technical Toolkit
 
