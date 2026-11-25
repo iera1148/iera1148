@@ -39,6 +39,6 @@ I enjoy turning everyday friction into clean, working software. Currently comple
 
 ### 📬 Get in Touch
 
-* **LinkedIn:** [Izzah Atirah](https://www.linkedin.com/in/izzah-atirah)
+* **LinkedIn:** [Izzah Atirah](https://www.linkedin.com/in/izzah-atirah-81022514a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 > *"Building useful things, one commit at a time."*
