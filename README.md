@@ -22,6 +22,10 @@ I enjoy turning everyday friction into clean, working software. Currently comple
   An automated evaluation tool built to streamline how student video presentations are assessed using Large Language Models and structured prompt frameworks.  
   `Python` `SQLite` `Large Language Models` `Prompt Engineering`
 
+* **[ChefBot Elite](https://github.com/iera1148/ChefBot) — Gamified Malaysian Culinary AI Assistant**  
+  A localized cooking companion designed to reduce food waste and kitchen decision fatigue using leftover-based recipe generation (*Peti Sejuk Surprise*), an XP leveling system, and interactive JavaScript mini-games (*Chef Catch*, *Rasa Memory*, and *Bahan Misteri*).  
+  `Python` `Flask` `SQLAlchemy` `OpenAI API` `JavaScript` `SQLite`
+
 
 ### 🚀 Mini Projects
 
@@ -33,9 +37,7 @@ I enjoy turning everyday friction into clean, working software. Currently comple
   A private chat for 2 to 8 people. One player is The Mimic. Survivors finish a short task or vote out the borrowed voice before the clock ends, and friends join with a room code.  
   `React` `JavaScript` `Vite` `Vercel`
 
-* **[ChefBot Elite](https://github.com/iera1148/ChefBot) — Gamified Malaysian Culinary AI Assistant**  
-  A localized cooking companion designed to reduce food waste and kitchen decision fatigue using leftover-based recipe generation (*Peti Sejuk Surprise*), an XP leveling system, and interactive JavaScript mini-games (*Chef Catch*, *Rasa Memory*, and *Bahan Misteri*).  
-  `Python` `Flask` `SQLAlchemy` `OpenAI API` `JavaScript` `SQLite`
+
 
 
 ---
