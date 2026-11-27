@@ -16,11 +16,14 @@ I enjoy turning everyday friction into clean, working software. Currently comple
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 University Projects
 
 * **VMarking — Automated Video Presentation Grader** *(Final Year Project – In Progress)*  
   An automated evaluation tool built to streamline how student video presentations are assessed using Large Language Models and structured prompt frameworks.  
   `Python` `SQLite` `Large Language Models` `Prompt Engineering`
+
+
+### 🚀 Mini Projects
 
 * **[UsSpace](https://github.com/iera1148/usspace) — Private Space for Two**  
   A mobile-first web app for exactly two people in a long-distance relationship. One invitation pairs the couple, then moods, notes, plans, memories, and manual map pins stay in sync on both phones, in English or Bahasa Malaysia.  
